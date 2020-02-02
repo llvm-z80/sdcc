@@ -92,7 +92,7 @@
    cases you can copy and paste another device's records and adjust
    them to the newly added device.
 
-  $Id$
+  $Id: cinc2h.pl 9450 2016-01-09 16:47:43Z molnarkaroly $
 =cut
 
 use strict;

@@ -1,6 +1,6 @@
 
 /*
-** $Id$
+** $Id: genutils.h 4051 2006-03-06 08:27:52Z vrokas $
 */
 
 #ifndef __GENUTILS_H__
