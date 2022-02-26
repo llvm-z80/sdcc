@@ -42,7 +42,7 @@
     These informations helps to realize the handling of periphery.
     Of course necessary to study the data sheets as well.
 
-    $Id$
+    $Id: pic16-header-parser.pl 9071 2014-09-17 08:32:55Z molnarkaroly $
 =cut
 
 use strict;

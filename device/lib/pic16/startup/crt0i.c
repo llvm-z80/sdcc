@@ -27,7 +27,7 @@
    might be covered by the GNU General Public License.
 -------------------------------------------------------------------------
 
-  $Id$
+  $Id: crt0i.c 9317 2015-09-13 08:19:01Z spth $
 */
 
 /*
