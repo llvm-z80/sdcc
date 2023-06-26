@@ -37,7 +37,7 @@
     Warning! This program is not able to find all variable. Especially them not, whose
     can be found in the indirect or external RAM.
 
-  $Id$
+  $Id: mcs51-disasm.pl 9068 2014-09-04 12:57:30Z molnarkaroly $
 =cut
 
 use strict;

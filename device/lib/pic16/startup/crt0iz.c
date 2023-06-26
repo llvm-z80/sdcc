@@ -28,7 +28,7 @@
    might be covered by the GNU General Public License.
 -------------------------------------------------------------------------
 
-  $Id$
+  $Id: crt0iz.c 13656 2022-08-14 10:27:34Z epetrich $
 */
 
 /*
