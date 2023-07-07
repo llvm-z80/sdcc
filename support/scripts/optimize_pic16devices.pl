@@ -24,7 +24,7 @@
     This program optimizes or unoptimizes the pic16devices.txt file.
     For more explanation: optimize_pic16devices.pl -h
 
-  $Id$
+  $Id: optimize_pic16devices.pl 9450 2016-01-09 16:47:43Z molnarkaroly $
 =cut
 
 use strict;

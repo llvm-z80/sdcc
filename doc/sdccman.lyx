@@ -186,11 +186,11 @@ filename "sdcc_version"
 
 
 \size footnotesize
-$Date::             $ 
+$Date:: 2023-07-07 #$ 
 \begin_inset Newline newline
 \end_inset
 
-$Revision$
+$Revision: 14211 $
 \end_layout
 
 \begin_layout Standard
