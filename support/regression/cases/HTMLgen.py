@@ -1,4 +1,4 @@
-#'$Id$'
+#'$Id: HTMLgen.py 13313 2022-03-26 12:53:11Z spth $'
 
 # COPYRIGHT (C) 1996-9  ROBIN FRIEDRICH  email:Robin.Friedrich@pdq.net
 # Permission to use, copy, modify, and distribute this software and
