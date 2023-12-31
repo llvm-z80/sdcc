@@ -42,7 +42,7 @@
     These informations helps to realize the handling of periphery.
     Of course necessary to study the data sheets as well.
 
-    $Id$
+    $Id: pic14-header-parser.pl 9072 2014-09-17 14:00:11Z molnarkaroly $
 =cut
 
 use Data::Dumper;
