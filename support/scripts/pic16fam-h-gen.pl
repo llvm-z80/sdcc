@@ -34,7 +34,7 @@
 	.../include/pic14/{adc,i2c,pwm,spi,usart}.h and
 	.../lib/pic14/libio/*/*.c
 
-    $Id$
+    $Id: pic16fam-h-gen.pl 9072 2014-09-17 14:00:11Z molnarkaroly $
 =cut
 
 
