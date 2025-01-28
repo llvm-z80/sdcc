@@ -9,7 +9,7 @@
 ### This file may be distributed under the terms of the the
 ### GNU General Public License (GPL). See GPL for details.
 ###
-### $Id$
+### $Id: Makefile.in 9919 2017-05-30 22:39:48Z spth $
 ###
 
 top_builddir = @top_builddir@
