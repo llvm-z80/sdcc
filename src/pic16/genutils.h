@@ -1,6 +1,6 @@
 
 /*
-** $Id$
+** $Id: genutils.h 15742 2025-10-21 08:36:10Z spth $
 */
 
 #ifndef __GENUTILS_H__
